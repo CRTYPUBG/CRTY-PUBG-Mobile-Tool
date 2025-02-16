@@ -87,8 +87,8 @@ Screenshots
 
 Here's a screenshot of the MK PUBG Mobile Tool:
 
-![CRTY PUBG Mobile Tool screenshot](.main/crty-pubg-mobile-tool.png )
-![CRTY PUBG Mobile Tool Optimize screenshot](.main/mk-pubg-mobile-tool-optimize.png)
+![CRTY PUBG Mobile Tool screenshot](main/crty-pubg-mobile-tool.png )
+![CRTY PUBG Mobile Tool Optimize screenshot](main/mk-pubg-mobile-tool-optimize.png)
 
 Note
 ----
