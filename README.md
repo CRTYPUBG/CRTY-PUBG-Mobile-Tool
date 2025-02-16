@@ -11,7 +11,7 @@ An easy-to-use GFX App For Gameloop (PUBG Mobile)<br><br>
 
 ------
 <br>
-MK PUBG Mobile Tool is a professional utility tool that enables you to optimize your PUBG Mobile gaming experience on Gameloop emulator on PC. This tool supports all versions of PUBG Mobile, including:
+CRTY PUBG Mobile Tool is a professional utility tool that enables you to optimize your PUBG Mobile gaming experience on Gameloop emulator on PC. This tool supports all versions of PUBG Mobile, including:
 
 *   PUBG Mobile Global
 *   PUBG Mobile VN
@@ -85,10 +85,10 @@ python main.py
 Screenshots
 -----------
 
-Here's a screenshot of the MK PUBG Mobile Tool:
+Here's a screenshot of the  PUBG Mobile Tool:
 
 ![CRTY PUBG Mobile Tool screenshot](https://github.com/CRTYPUBG/CRTY-PUBG-Mobile-Tool/blob/main/crty-pubg-mobile-tool.png)
-![CRTY PUBG Mobile Tool Optimize screenshot](https://github.com/CRTYPUBG/CRTY-PUBG-Mobile-Tool/blob/main/mk-pubg-mobile-tool-optimize.png)
+![CRTY PUBG Mobile Tool Optimize screenshot](https://github.com/CRTYPUBG/CRTY-PUBG-Mobile-Tool/blob/main/CRTY-pubg-mobile-tool-optimize.png)
 
 Note
 ----
