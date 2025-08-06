@@ -103,9 +103,9 @@ python main.py
 
 Screenshots of CRTY PUBG Mobile Tool V2.0.0:
 
-![CRTY PUBG Mobile Tool screenshot](./images/mk-pubg-mobile-tool.png)
-![CRTY PUBG Mobile Tool Optimize screenshot](./images/mk-pubg-mobile-tool-optimize.png)
-![CRTY PUBG Mobile Tool About screenshot](./images/mk-pubg-mobile-tool-about.png)
+![CRTY PUBG Mobile Tool screenshot](./images/crty-pubg-mobile-tool.png)
+![CRTY PUBG Mobile Tool Optimize screenshot](./images/crty-pubg-mobile-tool-optimize.png)
+![CRTY PUBG Mobile Tool About screenshot](./images/crty-pubg-mobile-tool-about.png)
 
 ### 🎬 V2.0.0 Animation Preview:
 - 🌟 Modern interface design
