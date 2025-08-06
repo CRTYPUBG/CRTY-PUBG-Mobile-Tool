@@ -111,9 +111,9 @@ python main.py
 
 لقطات شاشة لأداة CRTY PUBG Mobile Tool V2.0.0:
 
-![لقطة شاشة أداة CRTY PUBG Mobile](./images/mk-pubg-mobile-tool.png)
-![لقطة شاشة تحسين أداة CRTY PUBG Mobile](./images/mk-pubg-mobile-tool-optimize.png)
-![لقطة شاشة حول أداة CRTY PUBG Mobile](./images/mk-pubg-mobile-tool-about.png)
+![لقطة شاشة أداة CRTY PUBG Mobile](./images/crty-pubg-mobile-tool.png)
+![لقطة شاشة تحسين أداة CRTY PUBG Mobile](./images/crty-pubg-mobile-tool-optimize.png)
+![لقطة شاشة حول أداة CRTY PUBG Mobile](./images/crty-pubg-mobile-tool-about.png)
 
 <h3>🎬 معاينة الرسوم المتحركة V2.0.0:</h3>
 <ul>
