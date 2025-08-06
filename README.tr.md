@@ -3,7 +3,7 @@
 <h1>CRTY PUBG Mobile Tool V2.0.0</h1>
 🎮 Modern Animasyonlu GFX Aracı - GameLoop için PUBG Mobile Optimizasyonu<br><br>
 
-[![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen)](https://github.com/CRTY/CRTY-PUBG-Mobile-Tool) [![Author](https://img.shields.io/badge/Author-CRTY%20Apps-blue)](https://github.com/CRTYPUBG) [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE) [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://github.com/CRTYPUBG/CRTY-PUBG-Mobile-Tool)
+[![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen)](https://github.com/CRTY/CRTY-PUBG-Mobile-Tool) [![Author](https://img.shields.io/badge/Author-CRTY-blue)](https://github.com/CRTY) [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE) [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://github.com/CRTY/CRTY-PUBG-Mobile-Tool)
 
 **🆕 V2.0.0 YENİLİKLERİ:**
 - ✨ Modern animasyon sistemi
@@ -76,9 +76,9 @@ Tek tıklama ile iPad benzeri ekran simülasyonu için çözünürlük ayarları
 Aracı çalıştırmanın 2 yolu vardır:
 
 ### 1️⃣ İndir ve Çalıştır
-Bu aracı kullanmak için, uygulamayı [releases sayfasından (İndir)](https://github.com/CRTY/CRTY-PUBG-Mobile-Tool/releases) indirin ve PC'nizde çalıştırın. Grafik ayarlarını değiştirmek, GameLoop ve PC'yi optimize etmek veya PUBG Mobile için masaüstü kısayolu oluşturmak için ekrandaki talimatları takip edin.
+Bu aracı kullanmak için, uygulamayı [releases sayfasından (İndir)](https://github.com/CRTYPUBG/CRTY-PUBG-Mobile-Tool/releases) indirin ve PC'nizde çalıştırın. Grafik ayarlarını değiştirmek, GameLoop ve PC'yi optimize etmek veya PUBG Mobile için masaüstü kısayolu oluşturmak için ekrandaki talimatları takip edin.
 
-##### 🎯 Aracı nasıl kullanılır [Wiki sayfası (Buraya Tıklayın)](https://github.com/CRTY/CRTY-PUBG-Mobile-Tool/wiki)
+##### 🎯 Aracı nasıl kullanılır [Wiki sayfası (Buraya Tıklayın)](https://github.com/CRTYPUBG/CRTY-PUBG-Mobile-Tool/wiki)
 
 ### 2️⃣ Python ile Çalıştırma
 Kaynak kodunu indirin, ardından çalıştırmak için gerekli bağımlılıkları yükleyin:
@@ -127,8 +127,8 @@ CRTY PUBG Mobile Tool V2.0.0'ın ekran görüntüleri:
 - 4GB RAM (önerilen)
 
 ### 📞 Destek:
-- 🐛 Bug raporları için: [Issues](https://github.com/CRTY/CRTY-PUBG-Mobile-Tool/issues)
-- 💬 Topluluk desteği: [Discussions](https://github.com/CRTY/CRTY-PUBG-Mobile-Tool/discussions)
+- 🐛 Bug raporları için: [Issues](https://github.com/CRTYPUBG/CRTY-PUBG-Mobile-Tool/issues)
+- 💬 Topluluk desteği: [Discussions](https://github.com/CRTYPUBG/CRTY-PUBG-Mobile-Tool/discussions)
 - 📧 İletişim: crty@example.com
 
 ### 🔄 V1.0.8'den V2.0.0'a Geçiş:
@@ -157,6 +157,5 @@ CRTY PUBG Mobile Tool V2.0.0'ın ekran görüntüleri:
 **⭐ Beğendiyseniz yıldız vermeyi unutmayın!**
 
 Made with ❤️ by CRTY Team
-
 
 </div>
