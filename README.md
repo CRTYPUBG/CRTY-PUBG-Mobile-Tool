@@ -77,9 +77,9 @@ Change resolution settings to simulate an iPad-like display with one click and g
 There are 2 ways to run the tool:
 
 ### 1️⃣ Download and Run
-To use this tool, simply download the app from the [releases page (Download)](https://github.com/CRTY/CRTY-PUBG-Mobile-Tool/releases) and run it on your PC. Follow the on-screen instructions to change graphics settings, optimize GameLoop and PC, or create a desktop shortcut for PUBG Mobile.
+To use this tool, simply download the app from the [releases page (Download)](https://github.com/CRTYPUBG/CRTY-PUBG-Mobile-Tool/releases) and run it on your PC. Follow the on-screen instructions to change graphics settings, optimize GameLoop and PC, or create a desktop shortcut for PUBG Mobile.
 
-##### 🎯 How to use the tool [Wiki page (Click Here)](https://github.com/CRTY/CRTY-PUBG-Mobile-Tool/wiki)
+##### 🎯 How to use the tool [Wiki page (Click Here)](https://github.com/CRTYPUBG/CRTY-PUBG-Mobile-Tool/wiki)
 
 ### 2️⃣ Python Execution
 Download the source code, then install the necessary dependencies to run it:
@@ -128,8 +128,8 @@ Screenshots of CRTY PUBG Mobile Tool V2.0.0:
 - 4GB RAM (recommended)
 
 ### 📞 Support:
-- 🐛 Bug reports: [Issues](https://github.com/CRTY/CRTY-PUBG-Mobile-Tool/issues)
-- 💬 Community support: [Discussions](https://github.com/CRTY/CRTY-PUBG-Mobile-Tool/discussions)
+- 🐛 Bug reports: [Issues](https://github.com/CRTYPUBG/CRTY-PUBG-Mobile-Tool/issues)
+- 💬 Community support: [Discussions](https://github.com/CRTYPUBG/CRTY-PUBG-Mobile-Tool/discussions)
 - 📧 Contact: crty@example.com
 
 ---
