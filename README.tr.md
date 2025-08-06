@@ -3,7 +3,7 @@
 <h1>CRTY PUBG Mobile Tool V2.0.0</h1>
 🎮 Modern Animasyonlu GFX Aracı - GameLoop için PUBG Mobile Optimizasyonu<br><br>
 
-[![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen)](https://github.com/CRTY/CRTY-PUBG-Mobile-Tool) [![Author](https://img.shields.io/badge/Author-CRTY-blue)](https://github.com/CRTY) [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE) [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://github.com/CRTY/CRTY-PUBG-Mobile-Tool)
+[![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen)](https://github.com/CRTY/CRTY-PUBG-Mobile-Tool) [![Author](https://img.shields.io/badge/Author-CRTY%20Apps-blue)](https://github.com/CRTYPUBG) [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE) [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://github.com/CRTYPUBG/CRTY-PUBG-Mobile-Tool)
 
 **🆕 V2.0.0 YENİLİKLERİ:**
 - ✨ Modern animasyon sistemi
@@ -157,5 +157,6 @@ CRTY PUBG Mobile Tool V2.0.0'ın ekran görüntüleri:
 **⭐ Beğendiyseniz yıldız vermeyi unutmayın!**
 
 Made with ❤️ by CRTY Team
+
 
 </div>
