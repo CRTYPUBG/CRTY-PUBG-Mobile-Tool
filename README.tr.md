@@ -102,9 +102,9 @@ python main.py
 
 CRTY PUBG Mobile Tool V2.0.0'ın ekran görüntüleri:
 
-![CRTY PUBG Mobile Tool screenshot](./images/mk-pubg-mobile-tool.png)
-![CRTY PUBG Mobile Tool Optimize screenshot](./images/mk-pubg-mobile-tool-optimize.png)
-![CRTY PUBG Mobile Tool About screenshot](./images/mk-pubg-mobile-tool-about.png)
+![CRTY PUBG Mobile Tool screenshot](./images/crty-pubg-mobile-tool.png)
+![CRTY PUBG Mobile Tool Optimize screenshot](./images/crty-pubg-mobile-tool-optimize.png)
+![CRTY PUBG Mobile Tool About screenshot](./images/crty-pubg-mobile-tool-about.png)
 
 ### 🎬 V2.0.0 Animasyon Önizlemesi:
 - 🌟 Modern arayüz tasarımı
